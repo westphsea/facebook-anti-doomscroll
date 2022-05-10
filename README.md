@@ -21,7 +21,7 @@ A step-by-step process of applying a script to your Facebook account to automati
 
 ![](./images/Step8.png)
 
-8. Paste the following script at the Console's text area at the bottom of the window: 
+8. Paste the following script at the Console's text area at the bottom of the console window: 
 
 ```
 // Get a list of elements that match selectors, i.e. "Toggle to follow" buttons. 
@@ -63,6 +63,8 @@ function unfollow() {
 // run the unfollow function
 unfollow();
 ```
+
+![](./images/Step9.png)
 
 
 9. Wait as the script goes through one by one through the unfollow button of each account you are following. Depending on how many accounts you follow, this may take 10-30 minutes, even more. You can leave it running to do other things, and come back to it every now and then to check on its progress.
