@@ -23,6 +23,8 @@ A step-by-step process of applying a script to your Facebook account to automati
 
 8. Paste the following script at the Console's text area at the bottom of the console window: 
 
+[Source of the script](https://gist.github.com/renestalder/c5b77635bfbec8f94d28#gistcomment-3609333) you can check out the discussions there in case this script gets outdated again. 
+
 ```
 // Get a list of elements that match selectors, i.e. "Toggle to follow" buttons. 
 // Maintainers probably need to change the selector string for new FB versions
