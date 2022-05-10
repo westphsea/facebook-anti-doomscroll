@@ -1,7 +1,7 @@
 # Facebook Anti-DoomScroll
 A step-by-step process of applying a script to your Facebook account to automatically unfollow EVERYTHING on your timeline.
 
-**NOTE:** This has only been tested on Google Chrome as of May 10 2022. Please let us know if other browsers can also run this script.
+**NOTE:** This has only been tested on Google Chrome as of May 10 2022. Please let us know if other browsers can also run this script. You can contribute to this page! Open an issue at the issues section for any suggestions.
 
 1. Go to your facebook timeline at the options dropdown and select **Settings & privacy**:
 ![](./images/Step1.png)
